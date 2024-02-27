@@ -1,0 +1,30 @@
+.flutuar{
+    animation: flutuar 3s ease-in-out infinite alternate;
+}
+
+@keyframes flutuar{
+    0% {
+        transform:  translate(0px,0px);
+       
+    }
+
+    100%{
+        transform:  translate(0px,-80px);
+    }
+}
+
+.brilho{
+    animation: brilho 4s ease infinite alternate;
+}
+
+@keyframes brilho{
+        0%{ 
+            filter: saturate(0.2);
+
+        }
+        
+        100%{
+            
+            filter: saturate(2); 
+        }
+}

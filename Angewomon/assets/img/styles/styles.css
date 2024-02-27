@@ -1,0 +1,99 @@
+
+
+
+.principal {
+    background: url(../nuvi.webp);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    min-height: 900px;  
+
+    
+}
+
+.simbolo{
+    width: 100%;
+    height: 700px;
+    min-width: 500px;
+    mix-blend-mode: hard-light;
+    padding-left: 10%;
+    scale: 1.2;
+}
+
+.div-meio{
+    height: 800px;
+    width: 100%;
+    padding-left: 50%;
+}
+.digimon{
+    scale: 0.5;
+    padding-top: 680px;
+    
+}
+
+.descricao{
+    width: 50%;
+    padding-top: 80px;
+    padding-left: 200px;
+    color: #b44404;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    
+}
+
+.nomer{
+padding-left: 10%;
+padding-top: 150px;
+color:   #d82981e0;
+font-family: 'Caudex Bold';
+font-size: 100px;
+
+ 
+}
+
+.embaixo{
+    
+    background: rgba(141, 25, 70, 0.699);
+    width: 100%;
+    height: 100%;
+}
+
+.info{
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+    gap: 50px;
+    font-size: large;
+    font-family: 'Noto Serif JP', serif;
+
+}
+
+.info :hover{
+    color: #f1a035
+
+    ;
+
+}
+.negocin-1{
+    width: 20px;
+    padding-right: 3px;
+    scale: 1;
+}
+.negocin-2{
+    width: 20px;
+    scale: 2.5;
+    padding-right: 5px;
+}
+.negocin-3{
+    width: 20px;
+    scale: 2.5;
+    padding-right: 5px;
+}
+.negocin-4{
+    width: 20px;
+    scale: 2.5;
+    padding-right: 5px;
+}
+
